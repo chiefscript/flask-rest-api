@@ -14,3 +14,16 @@ REST API for a library
 
     $ pipenv shell
     $ pipenv install
+    
+**Other commands**
+
+Listing all routes
+    
+    $ python manage.py routes
+    $ flask routes
+
+_**Recommended IDE**_
+
+Pycharm: https://www.jetbrains.com/pycharm/
+
+Visual Studio Code: https://code.visualstudio.com/download
